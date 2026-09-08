@@ -4,3 +4,6 @@ This repository is created to showcase my learning journey and projects.
 Learning C programming.
 interested in cloud computing.
 Goal : contribute to open source.
+## Projects
+
+I am planning to build a Smart Hospital Management System to improve hospital management and provide efficient healthcare services.
